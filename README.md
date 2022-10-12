@@ -9,3 +9,5 @@ Backend framework for Node js
 
 # React
 Front end JS library
+
+React is a front-end library build by facebook.
